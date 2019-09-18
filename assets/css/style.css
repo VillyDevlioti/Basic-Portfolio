@@ -4,7 +4,10 @@
 
 body {
     width: 100%;
-    background-image: url("/assets/images/beanstalk.png");
+    
+    background-color: #eee;
+    /* for some reason this doesn't work, but feel free to uncomment*/
+    /*background-image: url("/assets/images/beanstalk.png");*/
  }
   
 h1 {
